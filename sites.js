@@ -1,4 +1,9 @@
 let sites = [
+        {
+        name: "jay",
+        url: 'https://disasterpiece.neocities.org,
+        because: "my site is only getting weirder. why not embrace it?"
+    },
     {
         name: "Jack McDade",
         url: 'https://jackmcdade.com',
